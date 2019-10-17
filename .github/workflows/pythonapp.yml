@@ -1,4 +1,4 @@
-name: pythonapp
+name: python-httpreq
 
 on: [push]
 
